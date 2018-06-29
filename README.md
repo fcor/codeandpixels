@@ -8,4 +8,4 @@ Week 2: Menger Sponge Fractal [Live Version](https://www.instagram.com/p/Biei-q8
 
 Week 3: Phyllotaxis [Live Version](https://www.instagram.com/p/BiwvZVqn1iR/?taken-by=fabiojcortes) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%203%20-%20Phyllotaxis)
 
-Week 4: Homer's Metaverse [Live Version](https://truthful-winter.surge.sh/) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%204%20-%20)
+Week 4: Homer's Metaverse [Live Version](https://truthful-winter.surge.sh/) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%204%20-%20Homer's%20Metaverse)
