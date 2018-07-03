@@ -17,3 +17,5 @@ Week 6: Pantera in 8bits + VR [Live Version](https://www.instagram.com/p/BjqS3MK
 Week 7: Generative Patterns [Live Version](https://www.instagram.com/p/Bj4oDhbHfXb/?taken-by=fabiojcortes) - [Code]()
 
 Week 8: Lorenz Attractor [Live Version](https://vimeo.com/275884408) - [Code]()
+
+Week 9: Oscillating Grids [Live Version](https://vimeo.com/277137774) - [Code]()
