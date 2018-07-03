@@ -15,3 +15,5 @@ Week 5: Mandelbrot Set [Live Version](https://www.instagram.com/p/BjUjTUOHRu0/?t
 Week 6: Pantera in 8bits + VR [Live Version](https://www.instagram.com/p/BjqS3MKnnCh/?taken-by=fabiojcortes) - [Code]()
 
 Week 7: Generative Patterns [Live Version](https://www.instagram.com/p/Bj4oDhbHfXb/?taken-by=fabiojcortes) - [Code]()
+
+Week 8: Lorenz Attractor [Live Version](https://vimeo.com/275884408) - [Code]()
