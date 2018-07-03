@@ -1,4 +1,4 @@
-# Homer's Metaverse
+# Mandelbrot Set
 
 Mandelbrot Set built on Processing.
 
