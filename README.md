@@ -19,3 +19,5 @@ Week 7: Generative Patterns [Live Version](https://www.instagram.com/p/Bj4oDhbHf
 Week 8: Lorenz Attractor [Live Version](https://vimeo.com/275884408) - [Code]()
 
 Week 9: Oscillating Grids [Live Version](https://vimeo.com/277137774) - [Code]()
+
+Week 10: Vamos Colombia! [Live Version](https://vimeo.com/278198433) - [Code]()
