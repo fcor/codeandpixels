@@ -1,4 +1,4 @@
-# Mandelbrot Set
+# Generative Patterns
 
 Generative Patterns built on processing.
 
