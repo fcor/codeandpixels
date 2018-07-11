@@ -22,4 +22,4 @@ Week 9: Oscillating Grids [Live Version](https://vimeo.com/277137774) - [Code](h
 
 Week 10: Vamos Colombia! [Live Version](https://vimeo.com/278198433) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%2010%20-%20Vamos%20Colombia)
 
-Week 11: CR7 Bianconero! [Live Version](https://vimeo.com/279495315) - [Code]()
+Week 11: CR7 Bianconero! [Live Version](https://vimeo.com/279495315) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%2011%20-%20CR7%20Bianconero)
