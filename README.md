@@ -21,3 +21,5 @@ Week 8: Lorenz Attractor [Live Version](https://vimeo.com/275884408) - [Code](ht
 Week 9: Oscillating Grids [Live Version](https://vimeo.com/277137774) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%209%20-%20Oscillating%20grids)
 
 Week 10: Vamos Colombia! [Live Version](https://vimeo.com/278198433) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%2010%20-%20Vamos%20Colombia)
+
+Week 11: CR7 Bianconero! [Live Version](https://vimeo.com/279495315) - [Code]()
