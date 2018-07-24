@@ -26,4 +26,4 @@ Week 11: CR7 Bianconero! [Live Version](https://vimeo.com/279495315) - [Code](ht
 
 Week 12: Snake! [Live Version](https://fcor.github.io/snake) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%2012%20-%20Snake)
 
-Week 13: Blue dimensions! [Live Version](https://vimeo.com/281261581) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%2012%20-%20Blue%20dimensions)
+Week 13: Blue dimensions! [Live Version](https://vimeo.com/281261581) - [Code](https://github.com/fcor/codeandpixels/tree/master/Challenges/Week%2013%20-%20Blue%20dimensions)
